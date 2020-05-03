@@ -1,6 +1,11 @@
 # BCR-Leak
 Research Files related to MAZE-BCR Attribution
 
+Informatio obtain publicly during the investigation by ATTICYBER Cyberinteligence servies and its international allies from the following master webistes>
+1. http://dnspexdevfbct2agyu3oxrmhm4ggf4ec6iwpnlb3kwb2rigrtuz3sayd.onion/
+2. https://newsmaze.top/
+3. http://45.141.86.137/banco-bcr-zmkiz
+
 Banco BCR
 
 In August 2019 one of the major backs in Costa Rico Banco BCR was attacked by Maze Team. At that time we have deveped new hacking tools and methods and examine the security systems. According to Financial Institutions Protocol this bank had to notify other institutions about the security breach case. But nothing was made. Servers and workstations were not blocked. Private data was not secured. Anyway the Bank decided to conceal information about the breach. Though the security personel were able to analyze the attack logs and to see that the attackers have accessed the payment processing system. We have stopped the attack as the possible damage was too high.
