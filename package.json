@@ -1,0 +1,19 @@
+{
+  "name": "bcr-leak",
+  "version": "1.0.0",
+  "description": "Research Files related to MAZE-BCR Attribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cduran/BCR-Leak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cduran/BCR-Leak/issues"
+  },
+  "homepage": "https://github.com/cduran/BCR-Leak#readme"
+}
